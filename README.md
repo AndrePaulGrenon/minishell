@@ -17,7 +17,7 @@
 
 	🚀 TLDR: As beautiful as a shell made by Leonardo Moreno and André-Paul Grenon
 
-1.Simply download the shell:
+1.Simply download the shell from your terminal:
 
 git clone https://github.com/AndrePaulGrenon/minishell.git minishell
 
