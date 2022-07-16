@@ -23,12 +23,8 @@ git clone https://github.com/AndrePaulGrenon/minishell.git minishell
 
 2. Make sure you have the correct package installed. You may have to install readline package. 
 
-3. In your terminal and in the minishell repo, type: make
-or 
-make bonus
+3. In your terminal and in the minishell repo, type  "make" or "make bonus" , to create the executable.
 
-to create the executable.
-
-4. In your terminal, execute : ./minishell or ./minishell_bonus
+4. In your terminal, execute : "./minishell" or "./minishell_bonus"
 
 5. Enjoy your new shell terminal. 
